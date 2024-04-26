@@ -1,0 +1,36 @@
+.hw4-input {
+    width: 200px;
+}
+
+.hw4-primary {
+    outline-style: auto;
+    outline-color: rgba(255, 0, 255, 0.457);
+}
+
+.hw4-primary:focus-visible {
+    outline-color: rgba(87, 24, 116, 0.96);
+}
+
+.hw4-secondary {
+    outline-style: auto;
+    outline-color: rgba(255, 0, 255, 0.138);
+}
+
+.hw4-secondary:focus-visible {
+    outline-color: rgba(87, 24, 116, 0.543);
+}
+
+.hw4-input-small {
+    font-size: small;
+    padding: 2px;
+}
+
+.hw4-input-medium {
+    font-size: medium;
+    padding: 5px;
+}
+
+.hw4-input-large {
+    font-size: large;
+    padding: 10px;
+}
